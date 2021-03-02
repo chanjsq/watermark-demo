@@ -1,24 +1,18 @@
-# watermark-demo
+# 批量水印 demo
 
-## Project setup
-```
-yarn install
-```
+## 运行
 
-### Compiles and hot-reloads for development
-```
+```shell
+yarn
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 预览
 
-### Lints and fixes files
-```
-yarn lint
-```
+### 批量上传
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1go5kgi5l5bj20xt0k2q5u.jpg)
+
+### 水印配置
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1go5khdapmdj20da0c2weq.jpg)
