@@ -7,6 +7,11 @@ yarn
 yarn serve
 ```
 
+## 功能
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1go5kk8dghej20ki05rjrt.jpg)
+
+
 ## 预览
 
 ### 批量上传
